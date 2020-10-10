@@ -9,4 +9,4 @@ categorical.ipynb-Extracting categorical variables and numerical variables from 
 
 Quandle.ipynb-Quandl unifies financial and economic datasets from hundreds of publishers on a single user-friendly platform.Most datasets on Quandl are available directly in Python, using the Quandl Python module.Here I have obtained the closing prices stock of apple, Facebook, Walmart, Google, and Tesla for my desired dates.  
 
-simple Regreesion.ipynb-1. Seaborn charts to visualize the variable distributions to check if they are normally distributed 2. Quantiles to reduce the outliers 3. Converting exponential distribution to linear using log transformation 4. VIF to check multi-collinearity
+Multiple_Regreesion.ipynb-1. Seaborn charts to visualize the variable distributions to check if they are normally distributed 2. Quantiles to reduce the outliers 3. Converting exponential distribution to linear using log transformation 4. VIF to check multi-collinearity
